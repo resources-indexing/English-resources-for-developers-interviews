@@ -38,5 +38,4 @@ discussion
 adapt, and assist in the creative process is vital
 
 ## repo map 
-- [../](https://github.com/resources-indexing/English-resources-for-developers-interviews/tree/main/job-description)
-- [../../](https://github.com/resources-indexing/English-resources-for-developers-interviews)
+- back to [job description list](https://github.com/resources-indexing/English-resources-for-developers-interviews#job-description)
