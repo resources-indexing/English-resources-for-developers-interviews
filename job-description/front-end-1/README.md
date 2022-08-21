@@ -1,4 +1,4 @@
-##Job Description
+Job Description
 We are searching for experienced, self-motivated, and passionate front-end software developers. You
 should be a self-starter who enjoys solving problems in clean, future-proof ways. You should be good at
 taking a problem, understanding it and the effect it will have on a larger system, and then implementing it
