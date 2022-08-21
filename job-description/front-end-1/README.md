@@ -36,3 +36,7 @@ discussion
 - Self-starter but team mindset - work autonomously and as part of an international team
 - This is a fast paced and ever-changing work environment so a willingness to learn,
 adapt, and assist in the creative process is vital
+
+## repo map 
+- [../](https://github.com/resources-indexing/English-resources-for-developers-interviews/tree/main/job-description)
+- [../../](https://github.com/resources-indexing/English-resources-for-developers-interviews)
